@@ -10,3 +10,9 @@
 ### Prioritats 2:
 - Daily Database.
 - Uniswap "libraries".
+
+### Formacion:
+
+- Smart contract / Turing Complete Blockchains
+- Uniswap
+- Web3py
